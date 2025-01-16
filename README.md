@@ -1,4 +1,4 @@
-# Key-pressed-insight
+# Key-Press-Insight
 <br>
 This is a minor project using html,css and javascript.
 <br>
