@@ -1,0 +1,12 @@
+body{
+    display:flex;
+    justify-content:center;
+    /* text-align: center; */
+    margin-top: 10rem;
+    height:100vh;
+}
+.keypressed,
+.keycode,
+.eventType{
+    color:aqua;
+}
